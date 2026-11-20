@@ -13,7 +13,6 @@ I believe in learning by doing, building practical solutions, and continuously d
 
 ## 👨‍💻 ABOUT ME
 
-- Cybersecurity student at NOUN.
 - Interested in offensive security and penetration testing.
 - Building practical experience through cybersecurity projects and technical labs.
 - Working with Python, Linux, Kali Linux, and network security tools.
